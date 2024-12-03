@@ -12,7 +12,7 @@ Contiene los notebooks utilizados en las sesiones del curso. Cada carpeta corres
 
 ### 📂 Tareas
 Incluye los ejercicios y proyectos prácticos asignados durante el curso:
-- **tarea_frec_table**: Creación de tablas de frecuencia y gráficos asociados.
+- **tarea_frec_table**: Creación de una tabla de frecuencia.
 - **tarea_01**: Primera tarea asignada, que incluye análisis exploratorio de datos.
 
 ---
